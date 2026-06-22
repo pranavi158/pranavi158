@@ -1,4 +1,4 @@
-<h1 align = "center">Hi there I am Pranavi  <img src="226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100"></h1>  
+<h1 align = "center">Hi there I am Pranavi  <img src="226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="50"></h1>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavipolagangu/">
