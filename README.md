@@ -1,5 +1,6 @@
 ## Hi there I am Pranavi 
 
+![Giffy](240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif)
 <!--
 **pranavi158/pranavi158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
