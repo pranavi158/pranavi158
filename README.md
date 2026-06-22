@@ -1,5 +1,5 @@
-<h1 align = "center">Hi there I am Pranavi</h1>  
-<img src="226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
+<h1 align = "center">Hi there I am Pranavi  <img src="226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100"></h1>  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavipolagangu/">
     <img src="https://img.shields.io/badge/LinkedIn-Pranavi_Polagangu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
