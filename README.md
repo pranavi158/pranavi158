@@ -1,4 +1,7 @@
 ## Hi there I am Pranavi 
+[![Linkedin shields.io](https://shields.io)](www.linkedin.com/in/pranavipolagangu/)
+[![Leetcode shields.io](https://shields.io)](https://leetcode.com/u/pranavi511/)
+[![Dev.to shields.io](https://shields.io)](https://dev.to/pranavi222/)
 
 ![Giffy](240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif)
 <!--
@@ -15,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Pranavi/bbfce31e0217a3689c8d961a356cb10d/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavi158&layout=compact)
