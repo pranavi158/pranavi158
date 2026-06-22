@@ -1,9 +1,18 @@
 ## Hi there I am Pranavi 
-[![Linkedin shields.io](https://shields.io)](www.linkedin.com/in/pranavipolagangu/)
-[![Leetcode shields.io](https://shields.io)](https://leetcode.com/u/pranavi511/)
-[![Dev.to shields.io](https://shields.io)](https://dev.to/pranavi222/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranavipolagangu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranavi_Polagangu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-![Giffy](240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif)
+  <a href="https://leetcode.com/u/pranavi511/">
+    <img src="https://img.shields.io/badge/LeetCode-pranavi511-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://dev.to/pranavi222/">
+    <img src="https://img.shields.io/badge/Dev.to-pranavi222-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
+<img src="240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="500">
 <!--
 **pranavi158/pranavi158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
